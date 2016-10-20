@@ -1,4 +1,8 @@
-sample/local.properties
-sample/sample.iml
 sample/bin
+sample/build
 sample/gen
+sample/.gradle
+sample/.idea
+**/*.iml
+**/local.properties
+**/.project
